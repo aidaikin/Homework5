@@ -14,12 +14,13 @@ public class FirstClass {
         SecondClass secondClassInstance = new SecondClass();
 
         System.out.println(secondClassInstance.returnHello());
-            }
+    }
 
     public static String returnString(int x){
         return " Hi Aidai";
     }
 }
+
 
 
 

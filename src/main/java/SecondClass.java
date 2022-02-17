@@ -1,6 +1,6 @@
 public class SecondClass {
     public String returnHello(){
-        return "Hello";
+        return "Hello World";
     }
 
     public static void main(String[] args) {
