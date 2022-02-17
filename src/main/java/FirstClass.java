@@ -17,7 +17,7 @@ public class FirstClass {
             }
 
     public static String returnString(int x){
-        return "Aidai";
+        return " Hi Aidai";
     }
 }
 
